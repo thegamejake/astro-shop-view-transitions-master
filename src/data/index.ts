@@ -18,14 +18,14 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 32,
-    name: "705 Brave",
-    slug: "t-705-shirt-brave",
+    name: "呆呆獸",
+    slug: "0079-呆呆獸",
     price: 129,
     description:
-      "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drinks some beer with.",
-    cover: "/products/ryan-hoffman-A7f7XRKgUWc-unsplash.webp",
+      "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drink some beer with.",
+    cover: "https://i.ibb.co/Pc7jKQw/AppIcon.png",
     coverCredits:
-      "https://unsplash.com/photos/A7f7XRKgUWc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+      "https://ibb.co/0Cg2Tth",
     category: ProductCategory.Shirts,
   },
   {
