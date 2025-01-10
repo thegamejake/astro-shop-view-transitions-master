@@ -22,7 +22,7 @@ export const products: Product[] = [
     slug: "0079-呆呆獸",
     price: 129,
     description:
-      "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drink some beer with.",
+      "水屬性／超能力屬性寶可夢，伽勒爾的樣子則是超能力屬性寶可夢。",
     cover: "https://i.ibb.co/Pc7jKQw/AppIcon.png",
     coverCredits:
       "https://ibb.co/0Cg2Tth",
@@ -30,26 +30,26 @@ export const products: Product[] = [
   },
   {
     id: 18,
-    name: "Haryo Setyadi",
-    slug: "haryo-setyadi-shirt",
+    name: "拿鐵-熊熊拉花",
+    slug: "拿鐵",
     price: 199,
     description:
-      "Feel the Comfort and Peace of the Haryo Setyadi Shirt white as snow. Don't worry about the stain, it's easy to clean.",
-    cover: "/products/haryo-setyadi-acn5ERAeSb4-unsplash.webp",
+      "濃郁的義式濃縮咖啡、絲滑的牛奶和柔順的奶泡，完美用牛奶呈現和諧平衡口感。",
+    cover: "https://i.ibb.co/j8Z1KJs/IMG-9115.jpg",
     coverCredits:
-      "https://unsplash.com/photos/acn5ERAeSb4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+      "https://ibb.co/BfKSDnF",
     category: ProductCategory.Shirts,
   },
   {
     id: 21,
-    name: "Faith Yarn T-Shirt",
-    slug: "faith-yarn-shirt",
+    name: "快龍－嚕嚕咪",
+    slug: "快龍",
     price: 59,
     description:
-      "Elevate Your Style and Comfort with the Faith Yarn Shoes. Designed to stay cool and dry all day.",
-    cover: "/products/faith-yarn-Wr0TpKqf26s-unsplash.webp",
+      "龍屬性／飛行屬性寶可夢。",
+    cover: "https://i.ibb.co/y4XRYCk/IMG-6143.jpg",
     coverCredits:
-      "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+      "https://ibb.co/9ZNvV04",
     category: ProductCategory.Shirts,
   },
 
