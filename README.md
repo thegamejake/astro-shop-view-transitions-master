@@ -2,14 +2,14 @@
 
 *Minimalist Shop with Browser View Transitions API and Astro for a smoother navigation experience.*
 
-[Demo](https://astro-shop-ten.vercel.app/)
+[Demo](https://astro-shop-view-transitions-master.vercel.app)
 
 ## Installation
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/codrops/astro-shop-view-transition
+git clone https://github.com/thegamejake/astro-shop-view-transitions-master
 ```
 
 2. Install dependencies
