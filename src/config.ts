@@ -2,11 +2,11 @@
  * Configs for codrops
  */
 
-// export const tutorialText = "Read the tutorial";
-// export const tutorialHref = "https://tympanus.net/codrops/?p=73418";
+export const tutorialText = "Facebook";
+export const tutorialHref = "https://www.facebook.com/useng.lou/";
 
 export const previousText = "Medium";
 export const previousHref = "https://medium.com/@usengjake";
 
 export const githubText   = "GitHub"
-export const githubHref   = "https://github.com/thegamejake/astro-shop-view-transitions-master"
+export const githubHref   = "https://github.com/codrops/astro-shop-view-transitions"
