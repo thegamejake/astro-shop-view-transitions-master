@@ -12,11 +12,10 @@ import { previousHref, previousText, tutorialHref, tutorialText, githubText, git
       An example shop using View Transitions with <a class="hover:underline text-black" href="https://astro.build/">Astro</a>.
     </h3>
     <nav class="pb-10">
-      <a href={previousHref} class="text-gray-400 hover:underline hover:text-gray-950 py-8">{previousText}</a>
+      <a href={previousHref} target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:underline hover:text-gray-950 py-8">{previousText}</a>
       <span class="text-gray-400 mx-2">&#183;</span>
-      <a href={tutorialHref} class="text-gray-400 hover:underline hover:text-gray-950">{tutorialText}</a>
-      <span class="text-gray-400 mx-2">&#183;</span>
-      <a href={githubHref} class="text-gray-400 hover:underline hover:text-gray-950">{githubText}</a>
+      <a href={tutorialHref} target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:underline hover:text-gray-950">{tutorialText}</a>
+      <a href={githubHref} target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:underline hover:text-gray-950">{githubText}</a>
     </nav>
   </div>
   
